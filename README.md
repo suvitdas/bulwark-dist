@@ -45,3 +45,9 @@ Full per-OS steps ship inside each archive as `INSTALL.md`. Verify integrity aga
     bulwark run         # scan + triage + report -> SECURITY_REPORT.md
 
 Optional LLM triage: set `ANTHROPIC_API_KEY` or `GEMINI_API_KEY` (works fully without a key).
+
+## License
+
+The bulwark binaries in this repo are licensed under the [Apache License 2.0](LICENSE) —
+free to use, including commercially. The source lives in a separate private repo and is
+not covered by this license. © 2026 Suvajit Das.
